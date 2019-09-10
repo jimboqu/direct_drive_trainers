@@ -1,4 +1,4 @@
-Make ,Model,Wireless,Devices,Accuracy,Wireless updates,"Metrics (Speed, Distance, Power, Cadence). ",Power,incline,Flywheel weight,weight,Wheel Size,Cassette,Disk brake clearance,price,
+Make ,Model,Wireless,Devices,Accuracy,Wireless updates,"Metrics (Speed, Distance, Power, Cadence). ",Power,incline,flywheel,weight,Wheel Size,Cassette,Disk brake clearance,price,
 Wahoo,Kickr,"Ant+, BT, FE","Android, Ios, MAC, PC",2,yes,SDPC,2200,20,7.25,21,"24, 26, 700, 27.5, 29",included,yes,999.99,
 Tacx,Neo,"Ant+, BT, FE","MAC, PC, Watch",1,yes,SCP,2200,25,,21.5,,no,,999.99,
 Elite ,Drivo II,"Ant+, BT, FE","Android, Ios, MAC, PC",0.5,yes,SCP ,2300,24,6,18,, no,,999.99,
@@ -7,7 +7,7 @@ Tacx,Flux s,"Ant+, BT, FE","Android, Ios, MAC, PC",3,yes,SCP ,1500,10,7,22.8,,no
 Tacx,Flux 2 smart,"Ant+, BT, FE","Android, Ios, MAC, PC",2.5,yes,SCP,2000,16,7.6,23.6,,,,749,https://tacx.com/product/flux-2-smart/
 Elite ,Directo X,"Ant+, BT, FE","Android, Ios, MAC, PC",1.5,yes,SCP,2100,18,4.2,15,,does 12 speed,,769,
 Wahoo,Kickr Core,"Ant+, BT, FE","Android, Ios, MAC, PC",2,,SCP,1800,16,5.4,17.5,,none,,699,
-Elite ,Suito,"Ant+, BT, FE","Android, Ios, MAC, PC",2.5,,SCP,1900,15,,14.5,,11-speed installed,,558,
+Elite ,Suito,"Ant+, BT, FE","Android, Ios, MAC, PC",2.5,,SCP,1900,15,3.5,14.5,,11-speed installed,,558,
 Kinetic,R1,"Ant+, BT, FE","android, Ios, MAC, PC",3,,SCP,2000,20,14,,,,,1050,Side to side
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
